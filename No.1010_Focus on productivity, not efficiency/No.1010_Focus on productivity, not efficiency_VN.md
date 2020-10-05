@@ -1,6 +1,6 @@
 ## Tập trung vào năng suất chứ không phải hiệu quả 
 
-### Làm được nhiều với ít tài nguyên hơn so với Làm nhiều hơn với cùng lượng tài nguyên
+### Làm nhiều với ít tài nguyên hơn so với Làm nhiều hơn với cùng lượng tài nguyên
 
 ![Originally published on [**JOTFORM.COM](http://jotform.com)**](https://cdn-images-1.medium.com/max/4000/1*7VwjIlfQaERE1CCkOjkrhA.jpeg)
 > # 12 Giờ.
@@ -89,7 +89,7 @@ Và chúng tôi đã có thể mất đi tất cả những điều đó: độn
 
 ## 2. Tránh đường ra
 
-Trong những ngày đầu mở rộng quy mô kinh doanh, tình trạng quan liêu sẽ hiếm khi xảy ra. Do vậy, sự phối hợp nhịp nhàng giữa các thành viên trong nhóm có thể tạo nên những tiến bộ đáng kinh ngạc trong một khoảng thời gian ngắn.
+Trong những ngày đầu mở rộng quy mô kinh doanh, tình trạng quan liêu sẽ hiếm khi xảy ra. Do vậy, sự phối hợp nhịp nhàng giữa các thành viên trong nhóm có thể tạo nên những sự phát triển đáng kinh ngạc trong một khoảng thời gian ngắn.
 
 Chính khi sự phức tạp len vào - đồng thời với sự tăng trưởng của công ty -  sẽ từ từ cản trở năng suất, tiến độ và doanh thu.
 
@@ -126,7 +126,7 @@ Thật không may, những cá nhân tài năng này thường được đặt t
 
 **“**Bất chấp hàng triệu  đô la đã bỏ ra trong 'cuộc chiến giành tài năng,’ [nghiên cứu của chúng tôi chỉ ra rằng](https://hbr.org/2017/02/the-best-companies-dont-have-more-stars-they-cluster-them-together)  rất ít được đầu từ để bảo vệ thành quả đó,” Mankins nói,
 
-> # “Mười lăm phần trăm lực lượng lao động của hầu hết các công ty là siêu sao, những nhân viên có hiệu suất đặc biệt xuất chúng và tiềm năng có tác động lớn đến việc thực hiện chiến lược.”
+> #  “Mười lăm phần trăm lực lượng lao động của hầu hết các công ty là siêu sao, những nhân viên có hiệu suất đặc biệt xuất chúng và tiềm năng có tác động lớn đến việc thực hiện chiến lược.”
 
 Sự thật là bất cứ nhân viên được tuyển dụng đều có thể trở thành siêu sao nếu được đào tạo và hỗ trợ đúng hoàn cảnh. Đó là lý do [tại sao tôi ưu tiên tìm hiểu từng nhân viên mới được tuyển tại JotForm](https://www.jotform.com/blog/attract-talent-build-culture/).
 
@@ -162,7 +162,7 @@ Xem xét đến bản chất của sự làm việc đã phát triển đến m�
 
 Các quốc gia như New Zealand hiện đang thử nghiệm [Tuần làm việc 4 ngày](https://www.theguardian.com/world/2018/mar/29/heck-it-was-productive-new-zealand-employees-try-four-day-week) sau khi một số nghiên cứu chỉ ra việc không có mối tương quan nào giữa tăng năng suất và số giờ chấm công.
 
-[Theo báo cáo của Guardian](https://www.theguardian.com/news/datablog/2011/dec/08/europe-working-hours), Luxembourg là quốc gia làm việc năng suất nhất trên thế giới, mặc dù công nhân của họ làm việc trung bình 29 giờ một tuần.
+[Theo báo cáo của The Guardian](https://www.theguardian.com/news/datablog/2011/dec/08/europe-working-hours), Luxembourg là quốc gia làm việc năng suất nhất trên thế giới, mặc dù công dân của họ làm việc trung bình 29 giờ một tuần.
 
 Mặc dù JotForm vẫn chưa thử nghiệm với tuần làm việc ngắn hơn, nhưng chúng tôi đã nhận thấy năng suất tăng đáng kể với phương thức giờ làm việc linh hoạt.
 
