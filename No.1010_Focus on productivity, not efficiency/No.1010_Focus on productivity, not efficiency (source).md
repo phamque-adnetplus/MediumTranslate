@@ -1,4 +1,4 @@
-## Focus on productivity, not efficiency [Que Edited]
+## Focus on productivity, not efficiency
 
 ### Doing more with less vs. doing more with the same
 
