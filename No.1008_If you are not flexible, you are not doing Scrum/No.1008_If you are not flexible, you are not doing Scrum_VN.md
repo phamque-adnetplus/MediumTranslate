@@ -1,92 +1,93 @@
-## Nếu như bạn không linh hoạt thì bạn không thực sự "Doing Scrum"
+
+
+## Nếu công việc không được linh hoạt, bạn đang sử dụng Scrum sai cách.
 
 ![A flexible Willow tree. Picture by John Seb Barber — [Flickr](https://www.flickr.com/photos/johnseb/)](https://cdn-images-1.medium.com/max/3200/1*rMMnPBLO4GOnpizPt0iOvg.jpeg)
-> # “Sồi có lẽ là loài cây khỏe nhất trong rừng, liễu với khả năng thích nghi và cơ thể uyển chuyển. Nhưng khi đối mặt với hỏa hoạn và bão tố thì liễu mới là loài sinh tồn sau cùng.” — Kara Barbieri
 
-Bản chất của Scrum là linh hoạt: Một nhóm nhỏ có tính linh hoạt và khả năng thích ứng cao. 
+> # “Sồi có lẽ là loài cây khỏe nhất trong rừng nhưng đối mặt với hỏa hoạn và bão tố, Liễu với khả năng thích nghi và cơ thể uyển chuyển mới là loài sinh tồn sau cùng.” — Kara Barbieri
 
-Hay nói cách khác: Scrum đòi hỏi mọi người phải linh hoạt trong nhiều tình huống. Linh hoạt trong tương tác của họ với những người khác để biết cách mang lại giá trị cao nhất. Linh hoạt trong các quy trình để họ có thể cải thiện chúng. Linh hoạt trong kế hoạch, vì vậy bạn có thể thực hiện theo kế hoạch tốt hơn khi có thêm nhiều thông tin mới.
+Giá trị của việc sử dụng phương pháp Scrum chính là hỗ trợ công việc trở nên nhanh hơn với một nhóm người linh động và thích nghi tốt. 
 
-Vậy câu hỏi tôi đặt ra cho bạn là: Nhóm Scrum của bạn linh hoạt đến mức nào? Và nếu nhóm của bạn không linh hoạt, thì liệu bạn có đang thực sự "Doing Scrum"?
+Hay nói cách khác: Scrum yêu cầu những người sử dụng chúng phải biết linh hoạt trong nhiều tình huống, linh hoạt trong việc tương tác với thành viên nhóm và biết cách phát triển các giá trị hiệu quả nhất, linh hoạt trong việc cải thiện tiến trình công việc nhóm và linh hoạt trong các kế hoạch khi nhận được nguồn thông tin mới. 
 
-## Lỗi thường gặp khiến nhóm Scrum mới thường trở nên kém linh hoạt hơn.
+Vậy câu hỏi được đặt ra là: nhóm của bạn đã thực sự sử dụng hiệu quả phương pháp này hay chưa? Nếu không, bạn có chắc mình đang sử dụng Scrum?  
 
-Hầu hết các nhóm mới bắt đầu với Scrum thường thiếu linh hoạt bởi vì họ cố gắng khởi đầu với một bước đi khá "an toàn" trong khi phải đối mặt với quá nhiều thay đổi, không chắc chắn và mang tính rủi ro. Bên cạnh đó là mô hình quản lý nhóm truyền thống với những quy tắc không cần thiết khiến cho thành viên nhóm cảm giác như họ bị kiểm soát từ trên xuống.
+## Lỗi thường gặp ở tân binh sử dụng Scrum: trở nên thiếu linh hoạt.
 
-Khi bạn lựa chọn một bước đi an toàn, nó làm cho nhóm thiếu đi sự mạo hiểm cần thiết để tạo nên bước tiến mới. Đây là vấn đề bởi vì Scum là một Framework cho phép quy trình mới thực sự có hiệu quả xuất hiện. Bạn cần khám phá để tìm ra những gì hoạt động tốt nhất với hoàn cảnh và tình huống hiện tại, và điều này đòi hỏi bạn phải chấp nhận rủi ro.
+Hầu hết các nhóm mới bắt đầu thường thiếu linh hoạt bởi họ hởi đầu với một bước đi khá "an toàn" trong khi phải đối mặt với nhiều thay đổi, không chắc chắn và mạo hiểm. Bên cạnh đó là mô hình quản lý nhóm truyền thống với những quy tắc không cần thiết khiến cho thành viên nhóm cảm giác như họ bị kiểm soát, không có tiếng nói trong nhóm chung. 
 
-> # “Often the difference between a successful man and a failure is not one's better abilities or ideas, but the courage that one has to bet on his ideas, to take a calculated risk, and to act." Maxwell Maltz
->
-> Thường thì sự khác biệt giữa người thành công và người thất bại không nằm ở việc ai có khả năng hay ý tưởng tốt hơn, mà ở lòng can đảm để đánh cược cho ý tưởng của mình, để chấp nhận rủi ro đã được tính kỹ, và hành động.
+Lựa chọn một bước đi an toàn làm cho nhóm của bạn thiếu đi sự mạo hiểm cần thiết để tạo nên bước tiến mới. Đây là một vấn đề quan ngại, bởi Scrum là một mô hình làm việc yêu cầu người làm thực sự bỏ công sức, bạn phải tìm ra bước đi hiệu quả nhất và phải chấp nhận rủi ro mạo hiểm. 
 
-Điều cần làm nên thay đổi chính là bạn phải bước ra khỏi vùng "an toàn". Nếu chỉ đứng trong cái giới hạn an toàn ấy, bạn sẽ chẳng có được sự đột phá nào mà chỉ là bạn làm được những thứ đã làm được trước đây với một chút biến chuyển. 
+> # “Rủi ro lớn nhất của cuộc đời chính là việc không dám mạo hiểm. Kẻ không dám mạo hiểm thì sẽ không nhận được gì cả và sẽ mãi dậm chân tại chỗ.” — Leo Buscaglia
 
-Điều này có vẻ rất trừu tượng, nhưng cho phép tôi đưa ra một số ví dụ cụ thể về các nhóm chơi quá  an toàn và không linh hoạt. 
+Điều cần làm để tạo nên thay đổi chính là bạn phải vượt khỏi giới hạn "an toàn". Nếu chỉ đứng trong cái giới hạn ấy, bạn sẽ chẳng có được sự đột phá nào mà chỉ lặp lại những gì đã đạt được. 
 
-Hãy thử xem nhóm của bạn có thực sự linh hoạt hay không với các tình huống khác nhau sau đây: 
+Nếu điều này quá khó hiểu, tôi sẽ cho bạn một vài ví dụ cụ thể qua một số nhóm đang đứng trong vùng "an toàn" và thiếu linh hoạt. 
 
-## Sprint Planning [Kế hoạch Sprint]
+Hãy thử xem nhóm của bạn có thực sự linh hoạt hay không với các trường hợp dưới đây: 
 
-* *“Chúng ta không thể cho thêm hạng mục này vào kế hoạch Sprint bởi vì nó nó chưa đáp ứng "Definition of Ready" mà chúng ta định nghĩa.”*
+## Lên kế hoạch Sprint 
 
-* *“Chúng ta không thể đưa hạng mục này vào kế hoạch Sprint bởi vì nó chưa có Story Points.”*
+* *“Chúng ta không thể cho thêm một mục nữa vào kế hoạch Sprint bởi lẽ chúng ta chưa sẵn sàng cho điều này.”*
 
-Điều kiện tiên quyết để thêm hạng mục vào Sprint trong Scrum là: Hạng mục Product Backlog được dự báo là có thể hoành thành trong Sprint đó. Story Points chỉ là tùy chọn và mang tính chất bổ sung. 
+* *“Chúng ta không thể cho mục này vào kế hoạch Sprint, chúng ta chưa có sự chuẩn bị nào cho nó.”*
 
-## Refinement [Grooming]
+Điều kiện tiên quyết trong phương pháp Scrum là những Backlog của sản phẩm được xác định nhất định phải được hoàn thành trong khuôn khổ kế hoạch Sprint. Story points không bắt buộc và có thể thực hành bổ sung. 
 
-* *“Chúng ta không thể thảo luận vấn đề này trong Refinement, bởi vì nó cần phải được trải qua giai đoạn Pre-refinement trước đó.*
+## **Refinement**
 
-* *“User Story đang thiếu "Acceptance criteria". Vì vậy vui lòng bổ sung thêm thêm Acceptance criteria để chúng ta có thể làm rõ vấn đề này trong phiên làm việc tiếp theo.”*
+* *“Chúng ta không thể cho mục này vào Refinement, bởi vì nó phải được thông qua Pre-refinement trước.*
 
-Pre-refinement không phải là một khái niệm trong Scrum, ở đấy chỉ có Refinement (Hay còn gọi là làm mịn hạng mục Backlog). Team phát triển thường không dành nhiều hơn 10% thời gian của họ cho công việc này. Mặc dù tài liệu hướng dẫn Scrum nêu rõ rằng Product Backlog thường bao gồm các mô tả kiểm thử để chứng minh tính hoàn chỉnh khi một hạng mục được coi là "Done". Nhưng thực sự thì Acceptance criteria là một hạng mục tùy chọn.. 
+* *“Phần User Story đang thiếu một số các tiêu chuẩn cần thiết. Xin hãy bổ sung để có thể cải tiến chúng ở phần tới.”*
 
-## Làm việc với các nhóm khác
+Pre-refinement không quá quan trọng trong Scrum so với Refinement. Các nhóm phát triển thường chỉ dành cho chúng gần 10% thời gian của họ. Mặc dù các tiêu chí chấp nhận không bắt buộc, Scrum yêu cầu Product Backlog Items phải vượt qua bài kiểm tra để chứng minh tiến độ hoàn thành khi nó được cho là " đã xong". 
 
-* *“Chúng tôi chỉ có thể giúp đỡ bạn khi đã nhận được sự đồng ý từ Scrum Master.”*
+## Hợp tác với các nhóm khác
 
-* *“Chúng ta không thể thêm hạng mục này vào Sprint, bởi vì chúng ta đã bắt đầu Sprint của mình.”*
+* *“Chúng tôi chỉ có thể hỗ trợ các bạn khi đã nhận được sự đồng ý từ Scrum Master.”*
 
-Scrum Master không phải là người quyết định mọi thứ, và cũng không phải là người làm việc như một người gác cổng cho nhóm. Các nhóm có thể trao đổi trực tiếp với nhau và các hạng mục có thể được bổ sung hoặc xóa bỏ ra khỏi Sprint, miễn là nó không gây ảnh hưởng nguy hiểm đến Sprint Goal.
+* *“Chúng ta không thể cho thêm mục nào vào Sprint nữa vì chúng ta đã khai triển kế hoạch rồi.”*
 
-Vì vậy, câu hỏi chính vẫn là: Tại sao các nhóm vẫn thường phản ứng như thế thay vì linh hoạt hơn?
+Scrum Master không phải là người quyết định toàn bộ mọi thứ. Các nhóm có thể trao đổi trực tiếp với nhau và thành viên nhóm có thể lựa chọn thêm hoặc bỏ một số mục miễn là điều đó không ảnh hưởng đến kết quả cần đạt.
 
-## Tại sao một số nhóm không linh hoạt hơn?
+Lại dẫn đến một câu hỏi khác: tại sao các nhóm không linh động hơn?
+
+## Tại sao một số nhóm không linh động hơn? 
 
 > # “Nếu thất bại không phải là một sự lựa chọn thì thành công cũng vậy.” — Seth Godin
 
+Để có thể linh động hơn, các nhóm cần phải thay đổi phong cách làm việc.
 
+Để thay đổi phong cách làm việc thì phải dám mạo hiểm chấp nhận rủi ro.
 
-
-
-Để trở nên linh hoạt hơn, nhóm cần phải thay đổi cách thức làm việc làm việc của họ.
-
-Để thay đổi phong cách làm việc thì họ cần phải chấp nhận rủi ro.
-
-Và chấp nhận rủi ro, nhoám cần cảm thấy "đủ an toàn" để chấp nhận những rủi ro này. 
+Và để có thể mạo hiểm thì các nhóm phải cảm thấy đủ "an toàn" để đương đầu với rủi ro. 
 
  <iframe src="https://medium.com/media/778c91b5e28e87d50f87c3303bf7d737" frameborder=0></iframe>
 
-Cái cảm giác "an toàn" đủ để có thể chấp nhận rủi ro này được gọi là **[sự an toàn về mặt tâm lý](https://en.wikipedia.org/wiki/Psychological_safety)**. Các nhóm đã trải nghiệm điều này thì các thành viên trong nhóm thường có tư duy:  
-> # *“Cảm thấy an toàn để chấp nhận rủi ro và chấp nhận bị phê bình trước mặt nhau.”*
+Cái cảm giác "an toàn" đủ để mạo hiểm này được gọi là **[tâm lý an toàn](https://en.wikipedia.org/wiki/Psychological_safety)**. Một số nhóm đã trải nghiệm điều này họ thường có tư duy:  
 
-Nếu không có tâm lý an toàn thì sẽ không có rủi ro nào cả. Nếu không có rủi ro nào cả có nghĩa là sẽ không có sự thay đổi thực sự nào hết, và nếu không có có thay đổi thực sự thì nhóm Scrum của bạn sẽ không bao giờ trở nên linh hoạt. Nhóm như vậy thì chỉ cố gắng tìm cách phù hợp với những gì họ đã làm trước đây để cho đúng khuôn khổ Scrum. 
+> # *“Cảm thấy đủ an toàn để mạo hiểm và trông cậy vào nhau.”*
 
-An toàn tâm lý được xác định là thành phần quan trọng của các nhóm hiệu suất cao tại Google trong [dự án Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/). Sự an toàn về tâm lý cũng tạo nền tảng cho khuôn mẫu để mô tả các giai đoạn khác nhau của các đội nhóm hiệu suất cao: Model [‘The Five Dysfunctions of a Team’](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team)  bởi Patrick Lencioni. An toàn về mặt tâm lý được coi là nền tảng của Model này.
+Nếu không có tâm lý an toàn thì sẽ không có cuộc mạo hiểm nào cả. Mà không mạo hiểm thì sẽ không có sự thay đổi nào hết. Điều đó dẫn đến việc nhóm sẽ chẳng có một cơ hội nào cho sự đột phá và thiếu đi sự linh hoạt trong công việc. Nhóm như vậy họ sẽ chỉ có thể tìm một giải pháp nhất thời để hoàn thành cho đúng khuôn khổ Scrum. 
 
-Điều quan trọng mà tôi cũng muốn đề cập tới là: Ở ngoài kia có nhiều nhóm hiệu suất cao và chấp nhận rủi ro hơn là chỉ an toàn về mặt tâm lý. Nhưng an toàn về mặt tâm lý tạo nên nền tảng của một đội nhóm hiệu suất cao. Thử nghĩ xem nếu các bạn không đủ tin tưởng để dựa vào nhau thì làm sao bạn có thể trở thành một đội nhóm có hiệu suất cao?
+Vì thế với Google, tâm lý an toàn được coi là nguyên liệu chủ chốt cho các nhóm thể hiện tốt trong [dự án Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/).Tâm lý an toàn hình thành nên khuôn mẫu để đánh giá các trạng thái khác nhau của các team thực hiện tốt:  [‘Năm chức năng của một đội’](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team)  bởi Patrick Lencioni. Nó đã trở thành nền tảng để nhận biết.
 
-## Linh hoạt đòi hỏi sự an toàn về mặt tâm lý
+Do đó tâm lý không chỉ giúp các nhóm có được can đảm để chấp nhận rủi ro mà còn tạo nên sự tin tưởng giữa các thành viên nhóm. Thử nghĩ xem, nếu không có lòng tin làm sao một nhóm có thể cùng phát triển?
 
-Scrum yêu cầu đội nhóm Scrum của bạn phải linh hoạt. 
+## Để có thể linh hoạt, cần có tâm lý an toàn
 
-Nếu không linh hoạt, nhóm sẽ không tìm được cách để mang lại nhiều giá trị nhất và sẽ không thể tìm ra quy trình làm việc tốt nhất. Và cũng sẽ không tìm ra kế hoạch tốt nhất khi có tiếp nhận những thông tin mới đến..
+Phương pháp Scrum bắt buộc nhóm phải linh động. 
 
-Hầu hết các nhóm mới bắt đầu với Scrum thường trở nên kém linh hoạt hơn. Các nhóm Scrum mới cố gắng chọn cách đi an toàn khi đối mặt với quá nhiều thay đổi không chắc chắn và mang tính rủi ro. Các nhóm này thường dùng phong cách làm việc đã lỗi thời, họ đặt những quy tắc quen thuộc và không cần thiết lên TOP và kết quả là gây cho những thành viên có cảm giác như là họ đang bị kiểm soát..
+Nếu không linh động, các nhóm sẽ không tìm được cách để tìm ra các giá trị phù hợp cho công việc. Như vậy có nghĩa là các nhóm không thể nào hoạt động tốt nhất có thể được và không thể tìm ra phương án hoàn chỉnh hơn khi tiếp nhận lượng thông tin mới.
 
-Hướng đi an toàn thường mang lại sự chắc chắn nhưng lại không tạo nên sự thay đổi thực sự. Đây là một vấn đề bởi vì Scrum là một khuôn khổ quy trình cho phép quy trình làm việc mới hiệu quả thược sự xuất hiện, và điều này đòi hỏi cần phải chấp nhận rủi ro. 
-> # An toàn về mặt tâm lý ➡ Chấp nhận rủi ro ➡ Thay đổi cách thức ➡ Linh hoạt
+Thường các nhóm mới bắt đầu đều không được linh động. Lí do là vì họ chọn cách đi an toàn trong khi phải đối mặt với rất nhiều sự thay đổi,không rõ ràng và rủi ro. Bên cạnh đó là phong cách làm việc đã lỗi thời với những quy tắc không cần thiết làm cho thành viên cảm giác như họ bị kiểm soát.
 
-Để các nhóm Scrum chấp nhận rủi ro, họ cần phải cảm thấy an toàn về mặt tâm lý. Điều này cho phép chấp nhận rủi ro để dẫn đến những thay đổi thực sự đối với quy tình làm việc và cho phép linh hoạt và phản ứng với sự thay đổi, từ đó mới có thể hoạt động hiệu quả và đạt được những bước tiến mới.
+Hướng đi an toàn thường mang lại sự chắc chắn nhưng lại không tạo nên sự thay đổi. Đây là một vấn đề bởi vì mục đích của Scrum là làm cho công việc của nhóm tốt nhất trong khả năng, vì thế nó cần có một sự đánh đổi, tìm hiểu và chấp nhận rủi ro để có được bước phát triển. 
 
-Nói tóm lại: Nếu nhóm của các bạn không linh hoạt, có nghĩ là nhóm của bạn đang không áp dụng Scrum!!!
+> # Tâm lý an toàn-> Mạo hiểm -> Thay đổi phong cách -> Linh hoạt
+
+Các nhóm sử dụng Scrum cần phải tạo được tâm lý an toàn cho họ, từ đó mới có thể hoạt động hiệu quả, linh hoạt và đạt được những bước tiến mới.
+
+Nói chung: Nếu nhóm của các bạn không linh hoạt, các bạn đang sử dụng Scrum sai cách!
+
+![[Do you want to write for Serious Scrum or seriously discuss Scrum?](https://medium.com/serious-scrum/your-invitation-to-the-serious-scrum-slack-workspace-f424aeea4093?sk=e8334e6ee505a85ae6b9d2a1ce37219c)](https://cdn-images-1.medium.com/max/NaN/1*qsg-zjcnz5A8B1xmBbdIfw.png)
