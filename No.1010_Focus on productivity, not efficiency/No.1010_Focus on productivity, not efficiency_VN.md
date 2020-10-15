@@ -65,7 +65,7 @@ Tôi muốn chia sẻ một số phương pháp năng suất mà chúng tôi đ�
 ### Cách lãnh đạo tập trung vào năng suất
 
 ## 1. Năng suất đội nhóm > Hiệu quả cá nhân
-> # Chúng tôi có thể để tất cả các nhân viên thiết kế của mình ngồi trong một phòng và các lập trình viên ở một phòng khác.
+> # Chúng tôi có thể để tất cả các nhân viên thiết kế của mình ngồi trong một phòng riêng và các lập trình viên ở một phòng khác.
 > # Tương tự như cách Ford đã làm, chúng tôi có thể yêu cầu mỗi người đảm nhận một công việc tại một thời điểm và chuyển sang việc tiếp theo ngay sau đó.
 > # Bằng cách này, chúng tôi có thể khiến họ làm việc 100% thời gian và trở thành một tổ chức siêu hiệu quả.
 
@@ -85,7 +85,7 @@ Và mọi thứ hoạt động tuyệt vời. Không ai cố gắng giải quy�
 
 Chúng tôi có sử dụng tài nguyên của mình hiệu quả hơn không? Không. Nhưng chúng tôi sử dụng chúng năng suất hơn. Chúng tôi thúc đẩy sự sáng tạo.
 
-Và chúng tôi đã có thể mất đi tất cả những điều đó: động lực quần thể, sự sở hữu sản phẩm và những ý tưởng đắt giá được tạo ra từ các cuộc thảo luận của những người đến từ các lĩnh vực khác nhau.
+Và chúng tôi đã có thể mất đi tất cả những điều đó: động lực tập thể, sự sở hữu sản phẩm và những ý tưởng đắt giá được tạo ra từ các cuộc thảo luận của những người đến từ các lĩnh vực khác nhau.
 
 ## 2. Tránh đường ra
 
@@ -93,26 +93,26 @@ Trong những ngày đầu mở rộng quy mô kinh doanh, tình trạng quan li
 
 Chính khi sự phức tạp len vào - đồng thời với sự tăng trưởng của công ty -  sẽ từ từ cản trở năng suất, tiến độ và doanh thu.
 
-Điều thú vị là, [hầu hết nhân viên * muốn * làm việc năng suất](https://www.jotform.com/blog/employee-productivity-and-motivation/). Tuy nhiên, qui mô tổ chức họ làm việc càng lớn, họ càng cảm thấy mình kém năng suất hơn.
+Điều thú vị là, [hầu hết nhân viên *muốn* làm việc năng suất](https://www.jotform.com/blog/employee-productivity-and-motivation/). Tuy nhiên, khi qui mô tổ chức họ làm việc càng lớn, họ sẽ càng cảm thấy mình kém năng suất hơn.
 > # Theo [nghiên cứu do Bain & Company thực hiện](https://www.amazon.com/Time-Talent-Energy-Organizational-Productive/dp/1633691764/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1487950992&sr=1-1), một công ty trung bình mất hơn 20% năng suất cho một thứ gọi là lực cản tổ chức.
 
 Thuật ngữ này đề cập đến các hoạt động không cần thiết tại nơi làm việc, các yêu cầu và quy định do quản lý cấp trên đề ra.
 
 Với tư cách là người quản lý hoặc sáng lập, công việc của chúng ta là đặt câu hỏi làm thế nào chúng ta có thể tránh làm kì đà cản mũi và giảm lực cản của tổ chức.
 
-Hãy lấy các cuộc họp làm ví dụ. Như [Mankins kể với Sarah Green Carmichael](https://hbr.org/ideacast/2017/03/globalization-myth-and-reality-2) ở đài HBR IdeaCast, cơ hội tốt nhất để nâng cao năng suất của tổ chức là **giảm số lượng các cuộc họp không cần thiết và những người tham gia cuộc họp**.
+Hãy lấy các cuộc họp làm ví dụ. Như [Mankins kể với Sarah Green Carmichael](https://hbr.org/ideacast/2017/03/globalization-myth-and-reality-2) ở đài HBR IdeaCast, cơ hội tốt nhất để nâng cao năng suất của tổ chức là **giảm số lượng các cuộc họp không cần thiết và số người tham gia cuộc họp**.
 
-Tôi đã giải thích ở bài “[Bạn có nên rời khỏi cuộc họp tệ hại đó không, ngay cả khi điều đó không được lịch sự cho lắm](https://www.jotform.com/blog/should-you-walk-out-of-that-bad-meeting-even-if-its-rude/)” rằng không phải tất cả các cuộc họp đều có giá trị như nhau. Chúng cũng không nhất thiết phải là "tai họa" cho với công ty của bạn.
+Tôi đã giải thích ở bài “[Bạn có nên rời khỏi cuộc họp tệ hại đó không, ngay cả khi điều đó không được lịch sự cho lắm](https://www.jotform.com/blog/should-you-walk-out-of-that-bad-meeting-even-if-its-rude/)” rằng không phải tất cả các cuộc họp đều có giá trị như nhau. Chúng cũng không nhất thiết phải là "tai họa" cho công ty của bạn.
 
-Nhưng không có nghĩa là chúng ta nên:
+Nhưng không có nghĩa là chúng ta không nên:
 
 * Ngừng làm gián đoạn giai đoạn làm việc của các thành viên trong nhóm bằng các cuộc họp không nhất thiết phải có sự hiện diện của họ.
 
-* Và hãy tự hỏi: *Chúng ta có nhất thiết phải họp không? Vấn đề này có cần đến mức phải chiếm thời gian quý báu của người khác không?*
+* Và hãy tự hỏi: *Chúng ta có nhất thiết phải họp không? Vấn đề này có cần đến mức phải chiếm dụng thời gian quý báu của người khác không?*
 
 Bởi vì câu châm ngôn cũ rằng “thời gian là tiền bạc” đơn giản là không đúng. Người ta luôn có thể kiếm được nhiều tiền hơn, nhưng thời gian? Đó là điều không thể thay đổi.
 
-Các cuộc họp là một phần trong cuộc sống của chúng ta. Cuối cùng thì, mỗi người sáng lập cần đặt ra ranh giới của riêng họ và tạo ra một chiến lược họp phù hợp với tổ chức của họ.
+Các cuộc họp là một phần trong cuộc sống của chúng ta. Cuối cùng thì, mỗi nhà sáng lập cần đặt ra ranh giới của riêng họ và tạo ra một chiến lược họp phù hợp với tổ chức của mình.
 
 ## 3. Tối đa hóa hiệu quả các siêu sao của bạn
 
@@ -162,19 +162,19 @@ Xem xét đến bản chất của sự làm việc đã phát triển đến m�
 
 Các quốc gia như New Zealand hiện đang thử nghiệm [Tuần làm việc 4 ngày](https://www.theguardian.com/world/2018/mar/29/heck-it-was-productive-new-zealand-employees-try-four-day-week) sau khi một số nghiên cứu chỉ ra việc không có mối tương quan nào giữa tăng năng suất và số giờ chấm công.
 
-[Theo báo cáo của The Guardian](https://www.theguardian.com/news/datablog/2011/dec/08/europe-working-hours), Luxembourg là quốc gia làm việc năng suất nhất trên thế giới, mặc dù công dân của họ làm việc trung bình 29 giờ một tuần.
+[Theo báo cáo của The Guardian](https://www.theguardian.com/news/datablog/2011/dec/08/europe-working-hours), Luxembourg là quốc gia làm việc năng suất nhất trên thế giới, mặc dù công dân của họ chỉ làm việc trung bình 29 giờ một tuần.
 
 Mặc dù JotForm vẫn chưa thử nghiệm với tuần làm việc ngắn hơn, nhưng chúng tôi đã nhận thấy năng suất tăng đáng kể với phương thức giờ làm việc linh hoạt.
 
 Như tôi đã nhấn mạnh trong “[Tại sao thức dậy lúc 6 giờ sáng không giúp bạn thành công](https://www.jotform.com/blog/productivity-with-waking-up/)”,mỗi người  có một thời điểm trong ngày hiệu quả nhất khác nhau.
 
-Những người thích ngủ nướng có thể bắt đầu ngày mới muộn hơn một chút. Và những ai thích giờ làm việc truyền thống có thể đến sớm.
+Những người thích ngủ nướng có thể bắt đầu ngày mới muộn hơn một chút. Và những ai thích kiểu giờ làm việc truyền thống hơn có thể đến sớm như thường.
 
 Ngoài ra, chúng tôi khuyến khích các thành viên trong nhóm thường xuyên nghỉ giải lao để sạc lại năng lượng. Các nghiên cứu chỉ ra rằng một người bình thường không thể tư duy phản biện  [lâu hơn bốn giờ](https://www.inc.com/jessica-stillman/this-is-the-ideal-number-of-hours-to-work-a-day-ac.html) tại một thời điểm; làm bất cứ điều gì sau đó là lãng phí nỗ lực.
 
-Và nó rất hợp lý- nhân viên càng cảm thấy sảng khoái về tinh thần, họ càng có nhiều khả năng đạt được chất lượng công việc cao hơn.
+Và nó rất hợp lý- khi nhân viên càng cảm thấy sảng khoái về tinh thần, họ càng có nhiều khả năng đạt được chất lượng công việc cao hơn.
 
-Tôi cũng cố gắng thực hành những gì tôi giảng. Mỗi năm, [Tôi nghỉ ít nhất một tuần](https://www.jotform.com/blog/dominating-tech-news/) từ công ty của tôi và trở về quê để giúp cha mẹ thu hoạch ô liu.
+Tôi cũng cố gắng thực hành những gì tôi giảng. Mỗi năm, [Tôi nghỉ ít nhất một tuần](https://www.jotform.com/blog/dominating-tech-news/) từ công ty của mình và trở về quê để giúp cha mẹ thu hoạch ô liu.
 
 ![](https://cdn-images-1.medium.com/max/3000/1*Tb44L5cW31L54_vF70fVTg.jpeg)
 
@@ -182,9 +182,9 @@ Tất cả suy tư về việc [ mức tăng trưởng startup](https://www.jotf
 
 Tôi biết rằng việc hái ô liu sẽ không đưa tôi lên đỉnh TechCrunch, nhưng đó là một thước đo thành công cá nhân. Và bằng cách nào đó, một số ý tưởng hay nhất của tôi đến với tôi trong giai đoạn này.
 
-Việc chuyển đổi từ tư duy hiệu quả sang tư duy năng suất không xảy ra trong một sớm một chiều, nhưng điều đó thực sự đáng giá.
+Việc chuyển đổi từ tư duy hiệu quả sang tư duy năng suất không thể xảy ra trong một sớm một chiều, nhưng nó thực sự đáng giá để thực hiện.
 
-Mỗi thay đổi đã tạo ra lợi ích đáng kể về  nhiều mặt như nhân viên hạnh phúc hơn, hiệu suất cao hơn và tăng lợi nhuận.
+Mỗi thay đổi như vậy đã tạo ra lợi ích đáng kể trên nhiều mặt như khiến nhân viên hạnh phúc hơn, hiệu suất cao hơn và tăng lợi nhuận đáng kể.
 
-Và đó không phải là những gì tất cả chúng ta muốn sao?
+Và đó không phải là những gì tất cả chúng ta đều muốn sao?
 
