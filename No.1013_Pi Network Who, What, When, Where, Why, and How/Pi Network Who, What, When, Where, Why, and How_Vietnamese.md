@@ -97,7 +97,7 @@ Bạn có thể kiếm được Pi từ việc sử dụng Ứng dụng di độ
 
 Lưu ý rằng, không cần để Ứng dụng di động Pi mở để khai thác vì nó hoạt động ở chế độ nền. Hơn nữa, Ứng dụng di động Pi không ảnh hưởng đến hiệu suất của điện thoại thông minh, không gây tiêu hao pin hay tốn kém tiền bạc, dữ liệu mạng và băng thông.
 
-Điện thoại thông minh của bạn là ví tiền điện tử được liên kết với tài khoản của bạn (số điện thoại hoặc tài khoản Facebook). Và, chức năng theo lịch trình của ví đó sẽ có trong Giai đoạn 3 (Mainnet). Trong giai đoạn cuối cùng này, các ví tiền điện tử sẽ có khóa riêng tư và khóa công khai.
+Điện thoại thông minh của bạn là ví tiền điện tử được liên kết với tài khoản của bạn (số điện thoại hoặc tài khoản Facebook). Và, theo lịch trình thì chức năng  của ví đó sẽ có trong Giai đoạn 3 (Mainnet). Trong giai đoạn cuối cùng này, các ví tiền điện tử sẽ có khóa riêng tư và khóa công khai.
 
 Hiện tại, bạn không thể rút tiền điện tử Pi bằng điện thoại thông minh của mình. Tuy nhiên, bạn sẽ có thể rút Pi, đổi Pi sang các loại tiền điện tử khác, ví dụ: BTC / ETH và tiền tệ fiat, ví dụ: USD / EUR hoặc mua hàng hóa và dịch vụ trên thị trường ngang hàng Pi khi Mạng Pi chuyển đổi sang một blockchain hoàn toàn phi tập trung, trong Giai đoạn 3 (Mainnet). 
 
