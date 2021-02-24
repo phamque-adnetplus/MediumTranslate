@@ -18,7 +18,7 @@ Nhiều "bậc thầy cuộc sống" hay khuyên chúng ta nếu muốn thành c
 
 * Đọc tin tức và các trang web chuyên môn
 
-* Đọc các ấn phẩm "truyền cảm hứng"
+* Đọc/ Nghe các ấn phẩm "truyền cảm hứng"
 
 * Ăn bữa sáng giàu protein
 
